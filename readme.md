@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Proyectos de carrera
 
-**Web:**   (url github.io)
+**Web:**   [(url github.io)](https://isee28.github.io/)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Haizea Floriano Vaz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Esta página es un intento de memoria de toda mi evolucioón porla ugr.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -30,13 +30,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 2/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+- Instagram: @InsideofIsee28
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
