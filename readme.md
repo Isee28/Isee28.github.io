@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Haizea Floriano Vaz
 
-**Resumen** : Esta página es un intento de memoria de toda mi evolucioón porla ugr.
+**Resumen** : Esta página es un intento de memoria de toda mi evolución a través de laugr.
 
 **Estilo/género:** portfolio
 
